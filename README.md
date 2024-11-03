@@ -1,6 +1,9 @@
 # Pitstop - Garage Management System
 
-Edit van Bart dd. zondag 3-11-2023: **Groepsrepo van [Agile Alliance staat op DevOps GitLab; hier](https://gitlab.devops.aimsites.nl/group-b-2024-rabbitmq/wk-7-8-pitstop-mobiele-werkplaats-infrastructure).**
+Edit van Bart dd. zondag 3-11-2023: **Groepsrepo's van Agile Alliance staan op DevOps GitLab hier:
+
+- [Infra repo](https://gitlab.devops.aimsites.nl/group-b-2024-rabbitmq/wk-7-8-pitstop-mobiele-werkplaats-infrastructure)
+- [Code repo](https://gitlab.devops.aimsites.nl/group-b-2024-rabbitmq/pitstop]
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/9sebkJQ3)
 
